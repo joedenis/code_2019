@@ -31,3 +31,4 @@ class Trap(Enemy, EnvironmentAsset):
 
 mine = Trap()
 yours = Trap()
+third = Trap()
